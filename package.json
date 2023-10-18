@@ -1,0 +1,12 @@
+{
+  "name": "clase13_revisionproyecto",
+  "version": "1.0.0",
+  "description": "estamos revisando el proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

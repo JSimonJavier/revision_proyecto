@@ -1,0 +1,12 @@
+.position-favorite{
+  position: relative;
+  top: 9px;
+  left: 6px;
+  color: yellow;
+  font-size: x-large;
+}
+
+.favorite{
+  color: red;
+}
+
